@@ -1,0 +1,1464 @@
+    1  find / - pavan
+    2  find / - devops
+    3  mkdir new
+    4  cd new
+    5  cd..
+    6  cd ..
+    7  pwd
+    8  find / name new
+    9  find / - new
+   10  clear
+   11  mkdir pavan
+   12  cd pavan
+   13  touch new
+   14  vi new
+   15  cat new
+   16  ll
+   17  ls
+   18  grep h new
+   19  grep -i H
+   20  grep -i H new
+   21  find / -name new
+   22  find / -name *.txt
+   23  find / -name new
+   24  chmod 777
+   25  chmod 777 new
+   26  ll
+   27  chmod 400
+   28  chmod 400 new
+   29  ll
+   30  chmod 444 new
+   31  ll
+   32  ls
+   33  chmod 666 new
+   34  ll
+   35  chmod 766
+   36  chmod 766 new
+   37  ll
+   38  chmod 124 new
+   39  ll
+   40  vi new
+   41  date
+   42  ll
+   43  chmod 777 new
+   44  ll
+   45  chmod 222 new
+   46  ll
+   47  chmod 020 new
+   48  ll
+   49  ls -ltr
+   50  chmod 777 new
+   51  ll
+   52  ls -a
+   53  ls
+   54  ls -a
+   55  ls -la
+   56  ls- ls
+   57  chown ec2-user:ec2-user new
+   58  ll
+   59  ll
+   60  chown root : ec2-user new
+   61  clear
+   62  pwd
+   63  ls
+   64  ll
+   65  chown ec2-user:ec2-user new
+   66  ll
+   67  chown root:ec2-user new
+   68  ll
+   69  chown root:root new
+   70  ll
+   71  chown ec2-user:ec2-user new
+   72  ll
+   73  touch test.txt
+   74  cat test.txt
+   75  echo "hello world "
+   76  cat test.txt
+   77  echo "hello world" > test.txt
+   78  cat test.txt
+   79  echo "hello" >> test.txt
+   80  cat test.txt
+   81  echo hello > test.txt
+   82  cat test.txt
+   83  ls -ltr
+   84  mkdir -p f1/f2
+   85  ll
+   86  chmod -R 777 pavan
+   87  ll
+   88  chown -R 744 pavan
+   89  ll
+   90  clear
+   91  ln -s
+   92  ln -s pavan
+   93  ls
+   94  ls -a
+   95  ln -s pavan
+   96  ln -s new
+   97  ls
+   98  ll
+   99  cd pavan
+  100  ln -s 
+  101  ln -s pavan
+  102  ll
+  103  mkdir a
+  104  mkdir -p a/b/c
+  105  ll
+  106  mv a p
+  107  ll
+  108  mv p a
+  109  find /-name test.txt
+  110  find / -name test.txt
+  111  ll
+  112  clear
+  113  ls
+  114  ll
+  115  cd a 
+  116  echo "hi"> b
+  117  echo "hi"> text.txt
+  118  cat text.txt
+  119  cp -pr a pavan
+  120  cd ..
+  121  cp -pr a pavan
+  122  cp -pr a f1
+  123  ll
+  124  head -3 test.txt
+  125  touch devops
+  126  vi devops
+  127  cat devops
+  128  head 3 devops
+  129  head -3 devops
+  130  tail -1 devops
+  131  tail -1
+  132  tail devops
+  133  tail -f devops
+  134  head -4 devops
+  135  head -2 devops
+  136  find / home/ncodelt-name*.xml
+  137  find / -name pavan
+  138  find /home /ncodeit 
+  139  find / -name pavan
+  140  exit
+  141  cd
+  142  pwd
+  143  find /root/ *.txt -mtime +7
+  144  find /root/ *.txt
+  145  find / -name *.txt
+  146  tail -f /var/log/messages 
+  147  ping www.google.com
+  148  pwd
+  149  find /root -size +10m
+  150  find / name pavan
+  151  pwd
+  152  cal
+  153  cal 1989 feb
+  154  cal 1989
+  155  date
+  156  l
+  157  ls
+  158  cat new
+  159  ll
+  160  cd new
+  161  ll
+  162  ls
+  163  cat f1
+  164  touch f1
+  165  ls
+  166  vi f1
+  167  cat f1
+  168  vi f1
+  169  cat f1
+  170  grep -i k
+  171  grep -i k f1
+  172  grep -i n f1
+  173  grep -v n f1
+  174  grep -r n
+  175  grep ^a f1
+  176  grep ^n f1
+  177  grep ^h f1
+  178  grep i$ f1
+  179  ls -d*
+  180  ls -a
+  181  find / -name f1
+  182  ls
+  183  ll
+  184  mkdir kl
+  185  ll
+  186  chmod 777 f1
+  187  ll
+  188  chmod 621 f1
+  189  ll
+  190  chmod 777 f1
+  191  cat f1
+  192  mv f1 l
+  193  cat l
+  194  cat f1
+  195  cat l f1
+  196  cp f1 k
+  197  ll
+  198  chown ec2-user:ec2-user l
+  199  ll
+  200  touch km
+  201  ll
+  202  cat l
+  203  cat km
+  204  cp l km
+  205  cat l
+  206  cat km
+  207  tac l
+  208  pwd
+  209  find /home/ec2-user/new +1
+  210  find /home/ec2-user/new +7
+  211  find /home/ec2-user/new -5
+  212  find /home/ec2-user/new -1
+  213  find /home/ec2-user/new ll
+  214  ll
+  215  ls
+  216  find /home/ec2-user/size +1k
+  217  find /home/ec2-user/new size +1k
+  218  cd ..
+  219  cd new
+  220  cd ..
+  221  ll
+  222  ls
+  223  cd new
+  224  find /home/ec2-user/new -mtime +5
+  225  find /home/ec2-user/new -mtime +1
+  226  find /home/ec2-user/ -mtime +1
+  227  find /home/ec2-user/ -mtime +5
+  228  find /home/ec2-user/ -mtime -1
+  229  find /home/ec2-user/ -mtime +1
+  230  sudo root
+  231  exit
+  232  cd ec2-user
+  233  ~
+  234  ll
+  235  ls
+  236  id
+  237  unma
+  238  uname
+  239  exit
+  240  cd 
+  241  cd ec2-user
+  242  su root
+  243  sudo su root
+  244  q
+  245  quit
+  246  clear
+  247  su root
+  248  cat /proc/cpuinfo
+  249  cat /etc/passwd
+  250  su 
+  251  ls
+  252  find / -name pavan
+  253  ll
+  254  touch file
+  255  echo "hai"> file
+  256  cat file
+  257  echo "hi>> file
+  258  echo "hi">> file
+  259  cat file
+  260  ls
+  261  cat file
+  262  vi file
+  263  cat file
+  264  ls -ltr
+  265  mv file .test
+  266  ls
+  267  ls -a
+  268  mv .test test
+  269  ls
+  270  cat test
+  271  ll
+  272  chmod 777 test
+  273  ll
+  274  chmod 762
+  275  chmod 762 test
+  276  ll
+  277  chmod 777 test
+  278  ll
+  279  chmod 400 test
+  280  ll
+  281  ls
+  282  chmod 777 test
+  283  ll
+  284  chown ec2-user:ec2user test
+  285  chown ec2-user:root test
+  286  ls
+  287  ll
+  288  chown root:root test
+  289  ll
+  290  clear
+  291  df -h
+  292  cat /proc/cpuinfo
+  293  cat /etc/passwd
+  294  id
+  295  uname
+  296  useradd pavan
+  297  cat /etc/passwd
+  298  passwd
+  299  passwd pavan
+  300  su pavan
+  301  ls
+  302  ll
+  303  cd ec2-user
+  304  cd /ec2-user
+  305  ls
+  306  ll
+  307  exit
+  308  ls
+  309  ll
+  310  top
+  311  wc -l test
+  312  touch test
+  313  vi test
+  314  wc test
+  315  cat test
+  316  wc -l test
+  317  head -3 test
+  318  tail -2 tesst
+  319  tail -2 test
+  320  ps -ef
+  321  yum installhttpd
+  322  ls
+  323  cp test /opt
+  324  ls
+  325  cd /opt
+  326  ls
+  327  rm test
+  328  ls
+  329  cd ..
+  330  cd
+  331  mv test test1
+  332  ls
+  333  mv test1 /opt
+  334  ls
+  335  cd /opt
+  336  ls
+  337  cd
+  338  ls
+  339  ll
+  340  touch a
+  341  ls
+  342  cp a /opt
+  343  ls
+  344  cd /opt
+  345  ll
+  346  cd
+  347  cd opt
+  348  cd /opt
+  349  touch mnb
+  350  cp mnb /ec2-user
+  351  ll
+  352  cd ec2-user
+  353  cd /ec2-user
+  354  cp mnb /temp
+  355  cd
+  356  cd /temp
+  357  ls
+  358  ll
+  359  sudo root
+  360  su root
+  361  sudo ec2-user
+  362  su ec2-user
+  363  sudo pavan
+  364  vi /etc/sudoers
+  365  su pavan
+  366  sudo su
+  367  cd
+  368  yum install httpd
+  369  systemctl start httpd
+  370  systemctl status httpd
+  371  ps -ef
+  372  ps -ef | grep httpd
+  373  ps -ef | grep httpd
+  374  ps -ef | grep httpd
+  375  systemctl start httpd
+  376  systemctl status httpd
+  377  systemctl stop httpd
+  378  systemctl status httpd
+  379  systemctl start httpd
+  380  ps -ef | grep httpd
+  381  kill -9 8963
+  382  ps -ef | grep httpd
+  383  systemctl status httpd
+  384  groupadd java
+  385  cat /etc/group
+  386  groupdel java
+  387  du
+  388  ls
+  389  ll
+  390  su -h
+  391  du -h
+  392  free
+  393  free -m
+  394  cd
+  395  cat > test.txt
+  396  cat test.txt
+  397  clear
+  398   awk '{print}' test.txt
+  399  awk '/manager/ {print}' test.txt
+  400  cd
+  401  awk '{print NR,$0}' test.txt
+  402  cd
+  403  ll
+  404  cat test.txt
+  405  awk '{print} test.txt
+  406  awk '{print}' test.txt
+  407  awk '/manager/ {print}' test.txt
+  408  awk '{print $1,$4}' test.txt
+  409  awk '{print $1,$3}' test.txt
+  410  awk '{print $2,$4}' test.txt
+  411  awk '{print NR,$0} test.txt
+  412  awk '{print NR,$0}' test.txt
+  413  awk '{print $1 $NF }'test.txt
+  414  awk '{print $1 $NF}' test.txt
+  415  awk 'NR==3,NR==6 {print NR $0 }' test.txt
+  416  awk 'NR==3,NR==6 {print NR "-"  $1 }' test.txt
+  417  awk 'NR==3,NR==6 {print NR "-"  $0 }' test.txt
+  418  awk 'NR==3,NR==6 {print NR "-"  $2 }' test.txt
+  419  awk 'NR==1,NR==6 {print NR "-"  $2 }' test.txt
+  420  awk 'NR==1,NR==6 {print NR "-"  $0 }' test.txt
+  421  sed -i 's/ajay/pavan/' test.txt
+  422  cat test.txt
+  423  cat test.txt | sed -i 's/pavan/jagan/' test.txt
+  424  sed -i 's/jagan/pavan/' test.txt | cat test.txt
+  425  sed -i 's/jagan/pavan/' test.txt |cat test.txt
+  426  sed -n 's/pavan/jagan/p' test.txt |cat test.txt
+  427  sed -n 's/pavan/jagan/p' test.txt 
+  428  cat test.txt
+  429  sed  '3s/sunil/pavan/p' test.txt 
+  430  cd
+  431  cat test.txt
+  432  vi test.txt
+  433  echo "hello world" >> test.txt
+  434  echo "hello word" >> test.txt
+  435  exit
+  436  cd
+  437  groupadd new
+  438  cat /etc/group
+  439  groupdel new
+  440  cat /etc/group
+  441  du 
+  442  du -h
+  443  free
+  444  free -m
+  445  du -sh
+  446  sud -s
+  447  ps -ef
+  448  systemctl start httpd
+  449  systemctl status httpd
+  450  systemctl stop httpd
+  451  systemctl start httpd
+  452  systemctl stop httpd
+  453  systemctl start httpd
+  454  systemctl status httpd
+  455  ps -ef
+  456  ps -ef | grep httpd
+  457  kill -p 3616
+  458  kill -p 3616 httpd
+  459  ps -ef | grep httpd
+  460  systemctl status httpd
+  461  ps -ef | grep httpd
+  462  kill -9 3616
+  463  systemctl status httpd
+  464  cat /etc/proc
+  465  cat /proc/cpuinfo
+  466  cat/etc/group
+  467  cat /etc / group
+  468  df
+  469  df -h
+  470  cat /etc/passwd
+  471  sudo
+  472  id
+  473  uname
+  474  useradd pavan 
+  475  cat pavan
+  476  cat /etc/passwd
+  477  passwd
+  478  su pavan
+  479  cd
+  480  ll
+  481  ls
+  482  cat test.txt
+  483  sed -i 's/peon/gaurd/p' test.txt
+  484  cat test.txt
+  485  sed -i 's/peon/gaurd/p' test.txt
+  486  chmod 400 test.txt
+  487  ll
+  488  chmod 777 test.txt
+  489  ll
+  490  sed -n 's/gaurd/peon/p' test.txt
+  491  touch devops
+  492  cp devops /opt/
+  493  cd opt
+  494  cd /opt/
+  495  ls
+  496  cat a
+  497  cat aws
+  498  cat mnb
+  499  cat test1
+  500  ll
+  501  mv devops devops1
+  502  ls
+  503  mv devops/opt/
+  504  cd
+  505  mv devops1 /opt/
+  506  mv devops1 /opt/
+  507  ls
+  508  cd /opt/
+  509  mv devops1/temp/
+  510  ll
+  511  mv devops1 devops2
+  512  ls
+  513  cd..
+  514  cd 
+  515  touch new
+  516  ls 
+  517  mv new /opt/
+  518  ls
+  519  cd /opt/
+  520  ls
+  521  wc test.txt
+  522  cat test.txt
+  523  ls
+  524  test1
+  525  cat mnb
+  526  du
+  527  du test1
+  528  du -h
+  529  du -sh*
+  530  du -sh
+  531  cd..
+  532  cd 
+  533  du -sh
+  534  ls
+  535  cat test.txt
+  536  wc test.txt
+  537  head test.txt
+  538  head -2 test.txt
+  539  tail -1 test.txt
+  540  tail -R test.txt
+  541  tail -F test.txt
+  542  su
+  543  cd
+  544  cd /tmp
+  545  ls
+  546  ls
+  547  ll
+  548  ll
+  549  cd
+  550  touch devops
+  551  tar cvf devops.tar devops/
+  552  cp devops.tar/temp
+  553  cp devops.tar/tmp
+  554  cd tmp
+  555  cd /tmp
+  556  mv file.rar ~
+  557  ls
+  558  cd 
+  559  ls
+  560  tar xvf devops.tar
+  561  ls
+  562  mkdir pavan
+  563  cd pavan
+  564  touch a b c d f g  h
+  565  cd
+  566  ls
+  567  ls -R
+  568  tar cvf pavan.tar pavi/
+  569  tar cvf pavi.tar pavan/
+  570  ls
+  571  cp pavi.tar/tmp
+  572  cp pavi.tar / tmp
+  573  cp pavi.tar /tmp/
+  574  cd /tmp
+  575  ls
+  576  tar xvf pavi.tar
+  577  cd
+  578  netstat -na
+  579  ping 
+  580  ping www.google.com
+  581  lsof -i
+  582  lsof -i tcp:80
+  583  systmctl start httpd
+  584  systemctl start httpd
+  585  systemctl status httpd
+  586  lsof -i tcp:80
+  587  nc -z
+  588  nslookup 13.231.201.96
+  589  nslookup < 13.231.201.96 >
+  590  nslookup <13.231.201.96>
+  591  cd
+  592  useradd pavan
+  593  ls
+  594  ll
+  595  mv test.txt /tmp
+  596  ls
+  597  cd tmp
+  598  cd /tmp
+  599  ls
+  600  mv test.txt /pavan
+  601  ls
+  602  cd
+  603  ls
+  604  cd pavan
+  605  ls
+  606  ls -R
+  607  cd
+  608  ls -R
+  609  exit
+  610  exit
+  611  sudo exit
+  612  exit
+  613  cd
+  614  ls
+  615  ls -R
+  616  vi test.txt
+  617  touch new
+  618  ls
+  619  mv new /pavan
+  620  ls
+  621  mv new /pavan/
+  622  ll
+  623  cp new /pavan/
+  624  cp new /pavan
+  625  ls
+  626  ls -R
+  627  ll
+  628  ls -R
+  629  cp new new1
+  630  ls
+  631  mv new1 /tmp
+  632  ls
+  633  cd tmp
+  634  cd /tmp
+  635  ls
+  636  sudo
+  637  sudo su
+  638  cd 
+  639  sudo 
+  640  sudo su
+  641  sudo ec2-user
+  642  sudo-s
+  643  sudo su
+  644  ~
+  645  /
+  646  quit
+  647  exit
+  648  cd
+  649  touch sample
+  650  mkdir -p abc/z//y
+  651  ls
+  652  ls -R
+  653  echo "hello world"> sample
+  654  cat sample
+  655  ls
+  656  ll
+  657  chmod 616 sample
+  658  ll
+  659  chmod 617 sample
+  660  ll
+  661  cat sample
+  662  cd abc
+  663  vi myscript.sh
+  664  ll
+  665  chmod 777 myscript.sh
+  666  ll
+  667  ln -s myscript.sh
+  668  cd z
+  669  cd
+  670  cd abc
+  671  ls
+  672  rm myscript.sh
+  673  ls
+  674  cd z
+  675  vi myscript.sh
+  676  chmod 777 myscript.sh
+  677  ll
+  678  ln -s ln -s myscript.sh
+  679  cd
+  680  cd abc 
+  681  cd z
+  682  cd ../..
+  683  pwd
+  684  find / -name sample
+  685  find / -name sample | cat sample
+  686  vi alphabet
+  687  grep -i a alphabet
+  688  grep -i A alphabet
+  689  grep a alphabet
+  690  vi demo.sh
+  691  './demo.sh'
+  692  chmod 777 demo.sh
+  693  './demo.sh'
+  694  './ demo.sh'
+  695  '. /demo.sh'
+  696  cd
+  697  kill -9 7056
+  698  ./demo.sh
+  699  cd
+  700  ./myscript.sh
+  701  cd abc
+  702  cd d
+  703  cd z
+  704  ./myscript.sh
+  705  
+  706  ./myscript.sh
+  707  ps -ef
+  708  ps -ef | grep demo.sh
+  709  vi demo.sh
+  710  cd
+  711  history
+  712  etc/passwd
+  713  id
+  714  uname
+  715  df -h
+  716  top
+  717  cat /etc/passwd
+  718  ls
+  719  tar cvf abc.tar create/
+  720  tar cvf create.tar abc/
+  721  ls
+  722  tar xvf create.tar
+  723  rm -rf create.tar
+  724  ls
+  725  history >> mytask
+    1  find / - pavan
+    2  find / - devops
+    3  mkdir new
+    4  cd new
+    5  cd..
+    6  cd ..
+    7  pwd
+    8  find / name new
+    9  find / - new
+   10  clear
+   11  mkdir pavan
+   12  cd pavan
+   13  touch new
+   14  vi new
+   15  cat new
+   16  ll
+   17  ls
+   18  grep h new
+   19  grep -i H
+   20  grep -i H new
+   21  find / -name new
+   22  find / -name *.txt
+   23  find / -name new
+   24  chmod 777
+   25  chmod 777 new
+   26  ll
+   27  chmod 400
+   28  chmod 400 new
+   29  ll
+   30  chmod 444 new
+   31  ll
+   32  ls
+   33  chmod 666 new
+   34  ll
+   35  chmod 766
+   36  chmod 766 new
+   37  ll
+   38  chmod 124 new
+   39  ll
+   40  vi new
+   41  date
+   42  ll
+   43  chmod 777 new
+   44  ll
+   45  chmod 222 new
+   46  ll
+   47  chmod 020 new
+   48  ll
+   49  ls -ltr
+   50  chmod 777 new
+   51  ll
+   52  ls -a
+   53  ls
+   54  ls -a
+   55  ls -la
+   56  ls- ls
+   57  chown ec2-user:ec2-user new
+   58  ll
+   59  ll
+   60  chown root : ec2-user new
+   61  clear
+   62  pwd
+   63  ls
+   64  ll
+   65  chown ec2-user:ec2-user new
+   66  ll
+   67  chown root:ec2-user new
+   68  ll
+   69  chown root:root new
+   70  ll
+   71  chown ec2-user:ec2-user new
+   72  ll
+   73  touch test.txt
+   74  cat test.txt
+   75  echo "hello world "
+   76  cat test.txt
+   77  echo "hello world" > test.txt
+   78  cat test.txt
+   79  echo "hello" >> test.txt
+   80  cat test.txt
+   81  echo hello > test.txt
+   82  cat test.txt
+   83  ls -ltr
+   84  mkdir -p f1/f2
+   85  ll
+   86  chmod -R 777 pavan
+   87  ll
+   88  chown -R 744 pavan
+   89  ll
+   90  clear
+   91  ln -s
+   92  ln -s pavan
+   93  ls
+   94  ls -a
+   95  ln -s pavan
+   96  ln -s new
+   97  ls
+   98  ll
+   99  cd pavan
+  100  ln -s 
+  101  ln -s pavan
+  102  ll
+  103  mkdir a
+  104  mkdir -p a/b/c
+  105  ll
+  106  mv a p
+  107  ll
+  108  mv p a
+  109  find /-name test.txt
+  110  find / -name test.txt
+  111  ll
+  112  clear
+  113  ls
+  114  ll
+  115  cd a 
+  116  echo "hi"> b
+  117  echo "hi"> text.txt
+  118  cat text.txt
+  119  cp -pr a pavan
+  120  cd ..
+  121  cp -pr a pavan
+  122  cp -pr a f1
+  123  ll
+  124  head -3 test.txt
+  125  touch devops
+  126  vi devops
+  127  cat devops
+  128  head 3 devops
+  129  head -3 devops
+  130  tail -1 devops
+  131  tail -1
+  132  tail devops
+  133  tail -f devops
+  134  head -4 devops
+  135  head -2 devops
+  136  find / home/ncodelt-name*.xml
+  137  find / -name pavan
+  138  find /home /ncodeit 
+  139  find / -name pavan
+  140  exit
+  141  cd
+  142  pwd
+  143  find /root/ *.txt -mtime +7
+  144  find /root/ *.txt
+  145  find / -name *.txt
+  146  tail -f /var/log/messages 
+  147  ping www.google.com
+  148  pwd
+  149  find /root -size +10m
+  150  find / name pavan
+  151  pwd
+  152  cal
+  153  cal 1989 feb
+  154  cal 1989
+  155  date
+  156  l
+  157  ls
+  158  cat new
+  159  ll
+  160  cd new
+  161  ll
+  162  ls
+  163  cat f1
+  164  touch f1
+  165  ls
+  166  vi f1
+  167  cat f1
+  168  vi f1
+  169  cat f1
+  170  grep -i k
+  171  grep -i k f1
+  172  grep -i n f1
+  173  grep -v n f1
+  174  grep -r n
+  175  grep ^a f1
+  176  grep ^n f1
+  177  grep ^h f1
+  178  grep i$ f1
+  179  ls -d*
+  180  ls -a
+  181  find / -name f1
+  182  ls
+  183  ll
+  184  mkdir kl
+  185  ll
+  186  chmod 777 f1
+  187  ll
+  188  chmod 621 f1
+  189  ll
+  190  chmod 777 f1
+  191  cat f1
+  192  mv f1 l
+  193  cat l
+  194  cat f1
+  195  cat l f1
+  196  cp f1 k
+  197  ll
+  198  chown ec2-user:ec2-user l
+  199  ll
+  200  touch km
+  201  ll
+  202  cat l
+  203  cat km
+  204  cp l km
+  205  cat l
+  206  cat km
+  207  tac l
+  208  pwd
+  209  find /home/ec2-user/new +1
+  210  find /home/ec2-user/new +7
+  211  find /home/ec2-user/new -5
+  212  find /home/ec2-user/new -1
+  213  find /home/ec2-user/new ll
+  214  ll
+  215  ls
+  216  find /home/ec2-user/size +1k
+  217  find /home/ec2-user/new size +1k
+  218  cd ..
+  219  cd new
+  220  cd ..
+  221  ll
+  222  ls
+  223  cd new
+  224  find /home/ec2-user/new -mtime +5
+  225  find /home/ec2-user/new -mtime +1
+  226  find /home/ec2-user/ -mtime +1
+  227  find /home/ec2-user/ -mtime +5
+  228  find /home/ec2-user/ -mtime -1
+  229  find /home/ec2-user/ -mtime +1
+  230  sudo root
+  231  exit
+  232  cd ec2-user
+  233  ~
+  234  ll
+  235  ls
+  236  id
+  237  unma
+  238  uname
+  239  exit
+  240  cd 
+  241  cd ec2-user
+  242  su root
+  243  sudo su root
+  244  q
+  245  quit
+  246  clear
+  247  su root
+  248  cat /proc/cpuinfo
+  249  cat /etc/passwd
+  250  su 
+  251  ls
+  252  find / -name pavan
+  253  ll
+  254  touch file
+  255  echo "hai"> file
+  256  cat file
+  257  echo "hi>> file
+  258  echo "hi">> file
+  259  cat file
+  260  ls
+  261  cat file
+  262  vi file
+  263  cat file
+  264  ls -ltr
+  265  mv file .test
+  266  ls
+  267  ls -a
+  268  mv .test test
+  269  ls
+  270  cat test
+  271  ll
+  272  chmod 777 test
+  273  ll
+  274  chmod 762
+  275  chmod 762 test
+  276  ll
+  277  chmod 777 test
+  278  ll
+  279  chmod 400 test
+  280  ll
+  281  ls
+  282  chmod 777 test
+  283  ll
+  284  chown ec2-user:ec2user test
+  285  chown ec2-user:root test
+  286  ls
+  287  ll
+  288  chown root:root test
+  289  ll
+  290  clear
+  291  df -h
+  292  cat /proc/cpuinfo
+  293  cat /etc/passwd
+  294  id
+  295  uname
+  296  useradd pavan
+  297  cat /etc/passwd
+  298  passwd
+  299  passwd pavan
+  300  su pavan
+  301  ls
+  302  ll
+  303  cd ec2-user
+  304  cd /ec2-user
+  305  ls
+  306  ll
+  307  exit
+  308  ls
+  309  ll
+  310  top
+  311  wc -l test
+  312  touch test
+  313  vi test
+  314  wc test
+  315  cat test
+  316  wc -l test
+  317  head -3 test
+  318  tail -2 tesst
+  319  tail -2 test
+  320  ps -ef
+  321  yum installhttpd
+  322  ls
+  323  cp test /opt
+  324  ls
+  325  cd /opt
+  326  ls
+  327  rm test
+  328  ls
+  329  cd ..
+  330  cd
+  331  mv test test1
+  332  ls
+  333  mv test1 /opt
+  334  ls
+  335  cd /opt
+  336  ls
+  337  cd
+  338  ls
+  339  ll
+  340  touch a
+  341  ls
+  342  cp a /opt
+  343  ls
+  344  cd /opt
+  345  ll
+  346  cd
+  347  cd opt
+  348  cd /opt
+  349  touch mnb
+  350  cp mnb /ec2-user
+  351  ll
+  352  cd ec2-user
+  353  cd /ec2-user
+  354  cp mnb /temp
+  355  cd
+  356  cd /temp
+  357  ls
+  358  ll
+  359  sudo root
+  360  su root
+  361  sudo ec2-user
+  362  su ec2-user
+  363  sudo pavan
+  364  vi /etc/sudoers
+  365  su pavan
+  366  sudo su
+  367  cd
+  368  yum install httpd
+  369  systemctl start httpd
+  370  systemctl status httpd
+  371  ps -ef
+  372  ps -ef | grep httpd
+  373  ps -ef | grep httpd
+  374  ps -ef | grep httpd
+  375  systemctl start httpd
+  376  systemctl status httpd
+  377  systemctl stop httpd
+  378  systemctl status httpd
+  379  systemctl start httpd
+  380  ps -ef | grep httpd
+  381  kill -9 8963
+  382  ps -ef | grep httpd
+  383  systemctl status httpd
+  384  groupadd java
+  385  cat /etc/group
+  386  groupdel java
+  387  du
+  388  ls
+  389  ll
+  390  su -h
+  391  du -h
+  392  free
+  393  free -m
+  394  cd
+  395  cat > test.txt
+  396  cat test.txt
+  397  clear
+  398   awk '{print}' test.txt
+  399  awk '/manager/ {print}' test.txt
+  400  cd
+  401  awk '{print NR,$0}' test.txt
+  402  cd
+  403  ll
+  404  cat test.txt
+  405  awk '{print} test.txt
+  406  awk '{print}' test.txt
+  407  awk '/manager/ {print}' test.txt
+  408  awk '{print $1,$4}' test.txt
+  409  awk '{print $1,$3}' test.txt
+  410  awk '{print $2,$4}' test.txt
+  411  awk '{print NR,$0} test.txt
+  412  awk '{print NR,$0}' test.txt
+  413  awk '{print $1 $NF }'test.txt
+  414  awk '{print $1 $NF}' test.txt
+  415  awk 'NR==3,NR==6 {print NR $0 }' test.txt
+  416  awk 'NR==3,NR==6 {print NR "-"  $1 }' test.txt
+  417  awk 'NR==3,NR==6 {print NR "-"  $0 }' test.txt
+  418  awk 'NR==3,NR==6 {print NR "-"  $2 }' test.txt
+  419  awk 'NR==1,NR==6 {print NR "-"  $2 }' test.txt
+  420  awk 'NR==1,NR==6 {print NR "-"  $0 }' test.txt
+  421  sed -i 's/ajay/pavan/' test.txt
+  422  cat test.txt
+  423  cat test.txt | sed -i 's/pavan/jagan/' test.txt
+  424  sed -i 's/jagan/pavan/' test.txt | cat test.txt
+  425  sed -i 's/jagan/pavan/' test.txt |cat test.txt
+  426  sed -n 's/pavan/jagan/p' test.txt |cat test.txt
+  427  sed -n 's/pavan/jagan/p' test.txt 
+  428  cat test.txt
+  429  sed  '3s/sunil/pavan/p' test.txt 
+  430  cd
+  431  cat test.txt
+  432  vi test.txt
+  433  echo "hello world" >> test.txt
+  434  echo "hello word" >> test.txt
+  435  exit
+  436  cd
+  437  groupadd new
+  438  cat /etc/group
+  439  groupdel new
+  440  cat /etc/group
+  441  du 
+  442  du -h
+  443  free
+  444  free -m
+  445  du -sh
+  446  sud -s
+  447  ps -ef
+  448  systemctl start httpd
+  449  systemctl status httpd
+  450  systemctl stop httpd
+  451  systemctl start httpd
+  452  systemctl stop httpd
+  453  systemctl start httpd
+  454  systemctl status httpd
+  455  ps -ef
+  456  ps -ef | grep httpd
+  457  kill -p 3616
+  458  kill -p 3616 httpd
+  459  ps -ef | grep httpd
+  460  systemctl status httpd
+  461  ps -ef | grep httpd
+  462  kill -9 3616
+  463  systemctl status httpd
+  464  cat /etc/proc
+  465  cat /proc/cpuinfo
+  466  cat/etc/group
+  467  cat /etc / group
+  468  df
+  469  df -h
+  470  cat /etc/passwd
+  471  sudo
+  472  id
+  473  uname
+  474  useradd pavan 
+  475  cat pavan
+  476  cat /etc/passwd
+  477  passwd
+  478  su pavan
+  479  cd
+  480  ll
+  481  ls
+  482  cat test.txt
+  483  sed -i 's/peon/gaurd/p' test.txt
+  484  cat test.txt
+  485  sed -i 's/peon/gaurd/p' test.txt
+  486  chmod 400 test.txt
+  487  ll
+  488  chmod 777 test.txt
+  489  ll
+  490  sed -n 's/gaurd/peon/p' test.txt
+  491  touch devops
+  492  cp devops /opt/
+  493  cd opt
+  494  cd /opt/
+  495  ls
+  496  cat a
+  497  cat aws
+  498  cat mnb
+  499  cat test1
+  500  ll
+  501  mv devops devops1
+  502  ls
+  503  mv devops/opt/
+  504  cd
+  505  mv devops1 /opt/
+  506  mv devops1 /opt/
+  507  ls
+  508  cd /opt/
+  509  mv devops1/temp/
+  510  ll
+  511  mv devops1 devops2
+  512  ls
+  513  cd..
+  514  cd 
+  515  touch new
+  516  ls 
+  517  mv new /opt/
+  518  ls
+  519  cd /opt/
+  520  ls
+  521  wc test.txt
+  522  cat test.txt
+  523  ls
+  524  test1
+  525  cat mnb
+  526  du
+  527  du test1
+  528  du -h
+  529  du -sh*
+  530  du -sh
+  531  cd..
+  532  cd 
+  533  du -sh
+  534  ls
+  535  cat test.txt
+  536  wc test.txt
+  537  head test.txt
+  538  head -2 test.txt
+  539  tail -1 test.txt
+  540  tail -R test.txt
+  541  tail -F test.txt
+  542  su
+  543  cd
+  544  cd /tmp
+  545  ls
+  546  ls
+  547  ll
+  548  ll
+  549  cd
+  550  touch devops
+  551  tar cvf devops.tar devops/
+  552  cp devops.tar/temp
+  553  cp devops.tar/tmp
+  554  cd tmp
+  555  cd /tmp
+  556  mv file.rar ~
+  557  ls
+  558  cd 
+  559  ls
+  560  tar xvf devops.tar
+  561  ls
+  562  mkdir pavan
+  563  cd pavan
+  564  touch a b c d f g  h
+  565  cd
+  566  ls
+  567  ls -R
+  568  tar cvf pavan.tar pavi/
+  569  tar cvf pavi.tar pavan/
+  570  ls
+  571  cp pavi.tar/tmp
+  572  cp pavi.tar / tmp
+  573  cp pavi.tar /tmp/
+  574  cd /tmp
+  575  ls
+  576  tar xvf pavi.tar
+  577  cd
+  578  netstat -na
+  579  ping 
+  580  ping www.google.com
+  581  lsof -i
+  582  lsof -i tcp:80
+  583  systmctl start httpd
+  584  systemctl start httpd
+  585  systemctl status httpd
+  586  lsof -i tcp:80
+  587  nc -z
+  588  nslookup 13.231.201.96
+  589  nslookup < 13.231.201.96 >
+  590  nslookup <13.231.201.96>
+  591  cd
+  592  useradd pavan
+  593  ls
+  594  ll
+  595  mv test.txt /tmp
+  596  ls
+  597  cd tmp
+  598  cd /tmp
+  599  ls
+  600  mv test.txt /pavan
+  601  ls
+  602  cd
+  603  ls
+  604  cd pavan
+  605  ls
+  606  ls -R
+  607  cd
+  608  ls -R
+  609  exit
+  610  exit
+  611  sudo exit
+  612  exit
+  613  cd
+  614  ls
+  615  ls -R
+  616  vi test.txt
+  617  touch new
+  618  ls
+  619  mv new /pavan
+  620  ls
+  621  mv new /pavan/
+  622  ll
+  623  cp new /pavan/
+  624  cp new /pavan
+  625  ls
+  626  ls -R
+  627  ll
+  628  ls -R
+  629  cp new new1
+  630  ls
+  631  mv new1 /tmp
+  632  ls
+  633  cd tmp
+  634  cd /tmp
+  635  ls
+  636  sudo
+  637  sudo su
+  638  cd 
+  639  sudo 
+  640  sudo su
+  641  sudo ec2-user
+  642  sudo-s
+  643  sudo su
+  644  ~
+  645  /
+  646  quit
+  647  exit
+  648  cd
+  649  touch sample
+  650  mkdir -p abc/z//y
+  651  ls
+  652  ls -R
+  653  echo "hello world"> sample
+  654  cat sample
+  655  ls
+  656  ll
+  657  chmod 616 sample
+  658  ll
+  659  chmod 617 sample
+  660  ll
+  661  cat sample
+  662  cd abc
+  663  vi myscript.sh
+  664  ll
+  665  chmod 777 myscript.sh
+  666  ll
+  667  ln -s myscript.sh
+  668  cd z
+  669  cd
+  670  cd abc
+  671  ls
+  672  rm myscript.sh
+  673  ls
+  674  cd z
+  675  vi myscript.sh
+  676  chmod 777 myscript.sh
+  677  ll
+  678  ln -s ln -s myscript.sh
+  679  cd
+  680  cd abc 
+  681  cd z
+  682  cd ../..
+  683  pwd
+  684  find / -name sample
+  685  find / -name sample | cat sample
+  686  vi alphabet
+  687  grep -i a alphabet
+  688  grep -i A alphabet
+  689  grep a alphabet
+  690  vi demo.sh
+  691  './demo.sh'
+  692  chmod 777 demo.sh
+  693  './demo.sh'
+  694  './ demo.sh'
+  695  '. /demo.sh'
+  696  cd
+  697  kill -9 7056
+  698  ./demo.sh
+  699  cd
+  700  ./myscript.sh
+  701  cd abc
+  702  cd d
+  703  cd z
+  704  ./myscript.sh
+  705  
+  706  ./myscript.sh
+  707  ps -ef
+  708  ps -ef | grep demo.sh
+  709  vi demo.sh
+  710  cd
+  711  history
+  712  etc/passwd
+  713  id
+  714  uname
+  715  df -h
+  716  top
+  717  cat /etc/passwd
+  718  ls
+  719  tar cvf abc.tar create/
+  720  tar cvf create.tar abc/
+  721  ls
+  722  tar xvf create.tar
+  723  rm -rf create.tar
+  724  ls
+  725  history >> mytask
+  726  history
+  727  cd
+  728  cd
+  729  cat /etc/os-release
+  730  top
+  731  free
+  732  free -m
+  733  cd
+  734  cd
+  735  cat /home/user/.bash_history
+  736  cat /root/.bash_history
+  737  pwd
+  738  find / -name mytask
+  739  history >>mytask
